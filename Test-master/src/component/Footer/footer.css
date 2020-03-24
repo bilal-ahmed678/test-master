@@ -1,0 +1,30 @@
+.tys-footer{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 75px 0 50px 0;
+    color: rgba( white, .7 );
+    font-size: rem(16);
+}
+.xc{
+    padding-top: 30px;
+}
+
+.dre{
+    padding: 14px;
+}
+.nav-links{
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    text-decoration: none;
+    font-style: serif;
+    font-weight: lighter;
+    font-size: 10px;
+    color: black;
+}
+.coln{
+    background-color: rgb(224, 224, 224);
+    
+}
